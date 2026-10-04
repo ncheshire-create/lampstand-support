@@ -1,0 +1,7 @@
+body{margin:0;background:#0F4A50;color:#F7ECD0;font:17px/1.6 -apple-system,Helvetica,Arial,sans-serif}
+main{max-width:640px;margin:0 auto;padding:40px 20px 60px}
+h1{font-size:34px;letter-spacing:2px;text-transform:uppercase;margin:0 0 6px;color:#F2B134}
+h2{font-size:20px;margin:30px 0 6px;color:#F2B134}
+a{color:#F2B134}
+.sub{opacity:.8;margin-bottom:24px}
+footer{margin-top:40px;font-size:14px;opacity:.7}
